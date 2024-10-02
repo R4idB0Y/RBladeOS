@@ -1,5 +1,5 @@
 ; Writed by R4idB0y
-; Kernel for RBladeOS
+; Bootloader for RBladeOS
 ; Copyright (C) 2024 - R4idB0Y
 
 
