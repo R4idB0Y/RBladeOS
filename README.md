@@ -17,3 +17,5 @@ Integration of simple commands into your kernel such as echo, clear, reboot, shu
 
 ![R4idB0y](0.1.png)
 
+Demonstration: https://www.youtube.com/watch?v=V4AOGu0INVw
+
