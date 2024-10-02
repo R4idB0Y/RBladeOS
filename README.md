@@ -3,6 +3,8 @@
 
 `./build-linux.sh`
 
+Use qemu or Virtualbox to emulate the OS
+
 Soon I will create a builder for windows.
 
 # RBladeOS
