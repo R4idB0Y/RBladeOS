@@ -1,6 +1,8 @@
 # Usage
-chmod +x build-linux.sh
-./build-linux.sh
+`chmod +x build-linux.sh`
+
+`./build-linux.sh`
+
 Soon I will create a builder for windows.
 
 # RBladeOS
