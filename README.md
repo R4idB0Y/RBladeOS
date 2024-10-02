@@ -6,3 +6,5 @@ RBladeOS is a simple operating system built in Assembly, designed for learning a
 
 Integration of simple commands into your kernel such as echo, clear, reboot, shutdown, and help. 
 
+![R4idB0y](0.1.png)
+
