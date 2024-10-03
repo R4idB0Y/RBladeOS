@@ -1,7 +1,5 @@
 ; Writed by R4idB0y
 ; Bootloader for RBladeOS
-; Copyright (C) 2024 - R4idB0Y
-
 
 [BITS 16]           ; Configura o modo 16 bits
 [ORG 0x7C00]        ; O bootloader é carregado em 0x7C00
