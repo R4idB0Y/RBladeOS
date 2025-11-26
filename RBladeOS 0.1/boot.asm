@@ -10,7 +10,6 @@ start:
     mov ax, 0x0000  
     mov ds, ax
 
-    ; Lê o kernel do disco
     mov ah, 0x02     ; Função para ler setor
     mov al, 1        ; Número de setores a ler
     mov ch, 0        ; Cabeça 0
